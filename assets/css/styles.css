@@ -402,7 +402,10 @@ img {
 /*==================== ABOUT ====================*/
 .about__img{
   width: 200px;
-  border-radius: .5rem;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #5A43CB;
+  border-radius: 50%;
   justify-self: center;
   align-self: center;
 }
